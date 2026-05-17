@@ -39,9 +39,9 @@ DrawOver is designed for people who need quick visual explanations without inter
 
 DrawOver is available on the Microsoft Store.
 
-[![Get it from Microsoft Store](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/)
-
-> Replace the link above with the official Microsoft Store URL.
+<a href="https://get.microsoft.com/installer/download/9mx1k4qn2ngn?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 ---
 
